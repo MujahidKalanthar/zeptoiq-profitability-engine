@@ -64,6 +64,24 @@ The platform includes customer-level profitability segmentation to identify high
 
 Not all customers contribute equally to profitability. Premium loyal users generate significantly stronger margins and operational stability compared to low-engagement or discount-sensitive users.
 
+---
+
+## Forecasting & Growth Intelligence
+
+The platform includes time-series forecasting capabilities to model operational growth and profitability trajectories.
+
+### Features
+
+- Daily order demand forecasting
+- Profitability trend forecasting
+- Time-series operational analytics
+- Future growth projection modeling
+- IPO readiness trend visibility
+
+### Strategic Value
+
+Forecasting operational demand and profitability trends helps evaluate long-term scalability and public-market readiness for quick-commerce businesses.
+
 ## Core Objectives
 
 - Analyze quick-commerce profitability drivers
