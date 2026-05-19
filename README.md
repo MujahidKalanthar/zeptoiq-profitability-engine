@@ -28,6 +28,23 @@ Originally developed from a national-level consulting case competition, this pro
 - Café and beauty categories show stronger margin potential
 - City-wise profitability varies due to operational density
 ---
+---
+
+## Pricing Intelligence Engine
+
+The project includes a dynamic pricing intelligence framework inspired by real-world quick-commerce operational tradeoffs.
+
+### Features
+
+- Z-Score operational pricing model
+- Dynamic delivery fee recommendation
+- Profitability-aware pricing logic
+- Demand intensity simulation
+- Margin optimization analytics
+
+### Pricing Engine Preview
+
+![Pricing Engine](visuals/charts/pricing_profitability_curve.png)
 
 ## Core Objectives
 
