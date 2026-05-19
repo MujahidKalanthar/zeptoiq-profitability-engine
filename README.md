@@ -82,6 +82,24 @@ The platform includes time-series forecasting capabilities to model operational 
 
 Forecasting operational demand and profitability trends helps evaluate long-term scalability and public-market readiness for quick-commerce businesses.
 
+---
+
+## IPO Valuation & Investor Intelligence
+
+The platform includes IPO-readiness and valuation analytics designed to evaluate whether quick-commerce businesses can sustainably justify public-market expansion.
+
+### Features
+
+- GMV multiple valuation modeling
+- IPO readiness scoring
+- Margin stability analysis
+- Valuation sensitivity simulations
+- Operational profitability evaluation
+
+### Strategic Insight
+
+Long-term valuation sustainability depends more on operational efficiency and margin visibility than aggressive hypergrowth alone.
+
 ## Core Objectives
 
 - Analyze quick-commerce profitability drivers
