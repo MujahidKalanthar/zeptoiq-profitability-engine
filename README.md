@@ -13,6 +13,20 @@ Originally developed from a national-level consulting case competition, this pro
 - IPO readiness evaluation
 - Executive business dashboards
 
+## Dashboard Preview
+
+### Executive Profitability Dashboard
+
+![Executive Dashboard](visuals/dashboards/executive_dashboard_overview.png)
+
+---
+
+### Key Insights
+
+- Higher AOV strongly improves contribution margins
+- Delivery cost volatility significantly impacts profitability
+- Café and beauty categories show stronger margin potential
+- City-wise profitability varies due to operational density
 ---
 
 ## Core Objectives
