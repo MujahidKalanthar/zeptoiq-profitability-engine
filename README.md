@@ -117,6 +117,24 @@ The project includes a Streamlit-based executive intelligence platform for inter
 
 ![Streamlit App](visuals/dashboards/streamlit_homepage.png)
 
+---
+
+## Strategic Scenario Simulation Engine
+
+The platform includes strategic stress-testing simulations designed to evaluate operational resilience under different market conditions.
+
+### Simulated Scenarios
+
+- Demand spikes
+- Competitive discount wars
+- Labor regulation impact
+- Delivery delay effects
+- Profitability stress testing
+
+### Strategic Insight
+
+Quick-commerce profitability remains highly sensitive to discounting intensity, labor-cost volatility, and operational delivery efficiency.
+
 ## Core Objectives
 
 - Analyze quick-commerce profitability drivers
