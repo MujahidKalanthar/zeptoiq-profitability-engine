@@ -46,6 +46,24 @@ The project includes a dynamic pricing intelligence framework inspired by real-w
 
 ![Pricing Engine](visuals/charts/pricing_profitability_curve.png)
 
+---
+
+## Customer Intelligence & Segmentation
+
+The platform includes customer-level profitability segmentation to identify high-value operational cohorts.
+
+### Features
+
+- Customer profitability analysis
+- Basket value segmentation
+- Loyalty behavior modeling
+- High-value user identification
+- Segment-level contribution analysis
+
+### Key Strategic Insight
+
+Not all customers contribute equally to profitability. Premium loyal users generate significantly stronger margins and operational stability compared to low-engagement or discount-sensitive users.
+
 ## Core Objectives
 
 - Analyze quick-commerce profitability drivers
