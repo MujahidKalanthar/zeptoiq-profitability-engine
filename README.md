@@ -99,6 +99,23 @@ The platform includes IPO-readiness and valuation analytics designed to evaluate
 ### Strategic Insight
 
 Long-term valuation sustainability depends more on operational efficiency and margin visibility than aggressive hypergrowth alone.
+---
+
+## Interactive Executive Platform
+
+The project includes a Streamlit-based executive intelligence platform for interactive operational and profitability analysis.
+
+### Features
+
+- Real-time profitability simulator
+- Dynamic operational KPI dashboard
+- IPO readiness evaluation
+- Interactive business intelligence visualizations
+- Strategic profitability exploration
+
+### Platform Preview
+
+![Streamlit App](visuals/dashboards/streamlit_homepage.png)
 
 ## Core Objectives
 
