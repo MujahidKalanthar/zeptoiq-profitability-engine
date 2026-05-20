@@ -8,7 +8,8 @@
 # 🏆 National-Level Case Competition Recognition
 
 This project originated from a national-level consulting and strategy case competition hosted at **MNNIT Allahabad**, where our team secured:
-## 🥈 2nd Position
+
+# 🥈 2nd Position
 
 The original case focused on evaluating:
 
@@ -136,8 +137,7 @@ The project also includes an interactive Streamlit-based executive intelligence 
 - Operational profitability exploration
 - Interactive business intelligence visualizations
 
-🔗 **Live App:** [Click here to view](https://zeptoiq.streamlit.app/)
-![Streamlit App](visuals/dashboards/streamlit_homepage.png) ![Streamlit App](visuals/dashboards/profitability_simulator.png)
+![Streamlit App](visuals/dashboards/streamlit_homepage.png)
 
 ---
 
@@ -240,3 +240,10 @@ Potential future upgrades include:
 
 **Mujahid Kalanthar**  
 ECE • MNNIT Allahabad  
+Analytics | Strategy | Business Intelligence | Product Thinking
+
+---
+
+# ⭐ Acknowledgment
+
+Built as an expansion of a national-level strategy case competition project at **MNNIT Allahabad**, where the team secured **2nd place**.
