@@ -1,249 +1,174 @@
-# ZeptoIQ 😤
-## Quick-Commerce Profitability & IPO Readiness Intelligence Platform
+# ZeptoIQ
+### Profitability & IPO Readiness Intelligence Platform for Quick Commerce
 
-> A strategic analytics, profitability intelligence, and operational simulation platform built around Zepto’s dark-store business model.
+## Overview
+ZeptoIQ is a strategic analytics and profitability intelligence platform designed to evaluate the scalability, operational efficiency, and IPO readiness of quick-commerce businesses.
 
----
+Originally developed from a national-level consulting case competition, this project expands the original strategic pitch into a complete analytics ecosystem including:
 
-# 🏆 National-Level Case Competition Recognition
-
-This project originated from a national-level consulting and strategy case competition hosted at **MNNIT Allahabad**, where our team secured:
-
-# 🥈 2nd Position
-
-The original case focused on evaluating:
-
-> **“Can Zepto’s dark-store model scale profitably ahead of its IPO ambitions?”**
-
-This repository transforms the original competition pitch into a complete end-to-end analytics, strategy, and operational intelligence platform.
-
----
-
-# 📌 Business Problem
-
-India’s quick-commerce ecosystem is scaling aggressively through:
-- 10-minute delivery models
-- dark-store infrastructure
-- hyperlocal fulfillment systems
-
-However, sustainable profitability remains uncertain due to:
-- rider subsidies
-- discount wars
-- operational inefficiencies
-- delivery cost volatility
-- aggressive competition from Blinkit, Swiggy Instamart, Tata & Reliance
-
-ZeptoIQ was built to analyze whether quick-commerce can realistically achieve scalable profitability and IPO readiness.
-
----
-
-# 🧠 Core Strategic Insight
-
-> **Quick-commerce profitability is fundamentally a density and operational intelligence problem — not merely a speed problem.**
-
-The platform explores how:
-- basket size
-- operational density
-- dynamic pricing
-- customer segmentation
-- delivery efficiency
-
-collectively determine long-term profitability and valuation sustainability.
-
----
-
-# 🚀 Platform Capabilities
-
-## 📊 Operational Analytics
 - Unit economics analysis
 - Dark-store profitability modeling
-- Rider-cost analytics
-- Delivery efficiency analysis
+- Pricing intelligence engine
+- Operational analytics
+- IPO readiness evaluation
+- Executive business dashboards
 
-## 💰 Profitability Intelligence
-- Contribution margin analysis
-- AOV sensitivity modeling
-- Pricing optimization engine
-- Profitability heatmaps
+## Dashboard Preview
 
-## 🧠 Customer Intelligence
-- Customer segmentation
-- Profitability cohort analysis
-- Loyalty behavior modeling
-- High-value customer identification
-
-## 📈 Forecasting & Growth Intelligence
-- Demand forecasting
-- Profit trajectory modeling
-- Operational growth analysis
-- Time-series forecasting
-
-## 🏦 IPO Readiness & Investor Analytics
-- GMV multiple valuation
-- IPO readiness scoring
-- Margin stability analysis
-- Valuation sensitivity modeling
-
-## ⚔ Strategic Stress Testing
-- Demand spike simulation
-- Discount-war scenarios
-- Labor regulation impact analysis
-- Operational risk simulations
-
----
-
-# 🖥 Executive Dashboard Preview
-
-## Executive Profitability Dashboard
+### Executive Profitability Dashboard
 
 ![Executive Dashboard](visuals/dashboards/executive_dashboard_overview.png)
 
 ---
 
-## 📌 Key Insights Extracted
+### Key Insights
 
-- Higher basket values significantly improve contribution margins
-- Delivery-cost volatility heavily impacts profitability stability
-- Café and beauty categories exhibit stronger margin potential
-- Operational density matters more than delivery speed alone
-- Aggressive discounting rapidly destroys contribution margins
-- IPO readiness depends more on margin stability than hypergrowth
-
+- Higher AOV strongly improves contribution margins
+- Delivery cost volatility significantly impacts profitability
+- Café and beauty categories show stronger margin potential
+- City-wise profitability varies due to operational density
+---
 ---
 
-# ⚡ Pricing Intelligence Engine
+## Pricing Intelligence Engine
 
 The project includes a dynamic pricing intelligence framework inspired by real-world quick-commerce operational tradeoffs.
 
 ### Features
+
 - Z-Score operational pricing model
 - Dynamic delivery fee recommendation
 - Profitability-aware pricing logic
-- Demand-intensity simulation
+- Demand intensity simulation
 - Margin optimization analytics
+
+### Pricing Engine Preview
 
 ![Pricing Engine](visuals/charts/pricing_profitability_curve.png)
 
 ---
 
-# 🧩 Interactive Executive Platform
+## Customer Intelligence & Segmentation
 
-The project also includes an interactive Streamlit-based executive intelligence platform.
+The platform includes customer-level profitability segmentation to identify high-value operational cohorts.
 
 ### Features
+
+- Customer profitability analysis
+- Basket value segmentation
+- Loyalty behavior modeling
+- High-value user identification
+- Segment-level contribution analysis
+
+### Key Strategic Insight
+
+Not all customers contribute equally to profitability. Premium loyal users generate significantly stronger margins and operational stability compared to low-engagement or discount-sensitive users.
+
+---
+
+## Forecasting & Growth Intelligence
+
+The platform includes time-series forecasting capabilities to model operational growth and profitability trajectories.
+
+### Features
+
+- Daily order demand forecasting
+- Profitability trend forecasting
+- Time-series operational analytics
+- Future growth projection modeling
+- IPO readiness trend visibility
+
+### Strategic Value
+
+Forecasting operational demand and profitability trends helps evaluate long-term scalability and public-market readiness for quick-commerce businesses.
+
+---
+
+## IPO Valuation & Investor Intelligence
+
+The platform includes IPO-readiness and valuation analytics designed to evaluate whether quick-commerce businesses can sustainably justify public-market expansion.
+
+### Features
+
+- GMV multiple valuation modeling
+- IPO readiness scoring
+- Margin stability analysis
+- Valuation sensitivity simulations
+- Operational profitability evaluation
+
+### Strategic Insight
+
+Long-term valuation sustainability depends more on operational efficiency and margin visibility than aggressive hypergrowth alone.
+---
+
+## Interactive Executive Platform
+
+The project includes a Streamlit-based executive intelligence platform for interactive operational and profitability analysis.
+
+### Features
+
 - Real-time profitability simulator
-- Dynamic KPI dashboard
+- Dynamic operational KPI dashboard
 - IPO readiness evaluation
-- Operational profitability exploration
 - Interactive business intelligence visualizations
+- Strategic profitability exploration
+
+### Platform Preview
 
 ![Streamlit App](visuals/dashboards/streamlit_homepage.png)
 
 ---
 
-# 🏗 System Architecture
+## Strategic Scenario Simulation Engine
 
-```text
-Synthetic Operational Dataset
-            ↓
-Data Processing & KPI Engine
-            ↓
-SQL Business Intelligence Layer
-            ↓
-Analytics & Forecasting Modules
-            ↓
-Pricing Intelligence Engine
-            ↓
-Scenario Simulation Engine
-            ↓
-Power BI + Streamlit Executive Dashboards
-```
+The platform includes strategic stress-testing simulations designed to evaluate operational resilience under different market conditions.
 
----
+### Simulated Scenarios
 
-# 🧪 Core Analytics Modules
+- Demand spikes
+- Competitive discount wars
+- Labor regulation impact
+- Delivery delay effects
+- Profitability stress testing
 
-| Module | Purpose |
-|---|---|
-| Unit Economics Engine | Contribution margin & profitability analysis |
-| Pricing Engine | Dynamic delivery fee optimization |
-| Forecasting Engine | Demand & growth prediction |
-| IPO Valuation System | Investor-readiness analytics |
-| Segmentation Engine | Customer profitability analysis |
-| Simulation Engine | Strategic stress testing |
+### Strategic Insight
+
+Quick-commerce profitability remains highly sensitive to discounting intensity, labor-cost volatility, and operational delivery efficiency.
+
+## Core Objectives
+
+- Analyze quick-commerce profitability drivers
+- Evaluate dark-store operational efficiency
+- Build a dynamic pricing intelligence framework
+- Simulate profitability under different operational scenarios
+- Assess IPO readiness using financial and strategic metrics
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### Analytics & Data
 - Python
-- Pandas
-- NumPy
+- Pandas & NumPy
 - SQL
-
-### Visualization
 - Power BI
-- Plotly
-- Matplotlib
-
-### Interactive Platform
 - Streamlit
-
-### Forecasting & Modeling
-- Prophet
-- Scenario Simulation Models
+- Plotly
 
 ---
 
-# 📂 Repository Structure
+## Repository Structure
 
 ```text
-data/           → datasets & processed data
+data/           → datasets
 notebooks/      → analytics notebooks
 dashboards/     → Power BI dashboards
-sql/            → SQL business intelligence queries
-src/            → reusable analytics modules
-reports/        → strategic findings & reports
-presentation/   → original competition deck
-visuals/        → dashboard screenshots & charts
-app/            → Streamlit executive platform
+sql/            → SQL business queries
+src/            → Python modules
+reports/        → strategic reports
+presentation/   → original case deck
 ```
 
 ---
 
-# 📈 Business Impact & Strategic Value
-
-ZeptoIQ demonstrates how analytics and operational intelligence can help quick-commerce companies:
-
-- improve contribution margins
-- optimize delivery pricing
-- reduce operational inefficiencies
-- identify high-value customer cohorts
-- evaluate IPO readiness
-- stress-test strategic decisions
-
----
-
-# 🔮 Future Enhancements
-
-Potential future upgrades include:
-- geographic optimization models
-- real-time API integrations
-- advanced ML demand forecasting
-- cloud deployment
-- live operational dashboards
-
----
-
-# 👨‍💻 Author
-
-**Mujahid Kalanthar**  
-ECE • MNNIT Allahabad  
-Analytics | Strategy | Business Intelligence | Product Thinking
-
----
-
-# ⭐ Acknowledgment
-
-Built as an expansion of a national-level strategy case competition project at **MNNIT Allahabad**, where the team secured **2nd place**.
+## Status
+🚧 Currently under development
