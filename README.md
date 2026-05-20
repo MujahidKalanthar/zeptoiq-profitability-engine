@@ -5,7 +5,7 @@
 
 ---
 
-# 🏆 National-Level Case Competition Recognition
+## 🏆 National-Level Case Competition Recognition
 
 This project originated from a national-level consulting and strategy case competition hosted at **MNNIT Allahabad**, where our team secured:
 ### 🥈 2nd Position
